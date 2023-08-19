@@ -24,6 +24,7 @@ GIF created with kap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 -->
+https://i.imgur.com/nZxhRm6.gif
 
 ## App Brainstorming (Step 4)
 

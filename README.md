@@ -23,7 +23,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with kap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
-
+-->
 
 ## App Brainstorming (Step 4)
 

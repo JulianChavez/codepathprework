@@ -26,6 +26,7 @@ GIF created with kap
 
 
 ## App Brainstorming (Step 4)
+
 -X
 1.Ability to talk to other people and repost messages. Plus the live show feature where people can listen in
 2.The trending page to be up to date on news
